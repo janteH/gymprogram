@@ -15,3 +15,8 @@ What the app looks like:
 Log in page:
 
 ![image](https://github.com/janteH/gymprogram/assets/101558189/ae19a55e-d2df-4b04-8fb7-ba9c6e4dad92)
+
+Logged in as user and added some moves:
+
+![image](https://github.com/janteH/gymprogram/assets/101558189/ecf1e516-5553-4562-bd40-288d301bb6a8)
+
