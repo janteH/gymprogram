@@ -20,3 +20,27 @@ Logged in as user and added some moves:
 
 ![image](https://github.com/janteH/gymprogram/assets/101558189/ecf1e516-5553-4562-bd40-288d301bb6a8)
 
+Created some programs and assigned moves to there:
+
+![image](https://github.com/janteH/gymprogram/assets/101558189/bf2345c8-d3e0-4950-9a9f-3603ec5b269f)
+
+Create new moves form:
+
+![image](https://github.com/janteH/gymprogram/assets/101558189/d6eb3b4c-e7a1-4e54-b348-f67159657487)
+
+Default values for reps is 10 and sets is 4.
+
+Create new program form:
+
+![image](https://github.com/janteH/gymprogram/assets/101558189/9a170028-447a-4989-b359-f95bcbbd949a)
+
+(select multiple moves by holding control key)
+
+Modify or delete an existing movement:
+
+![image](https://github.com/janteH/gymprogram/assets/101558189/fb559bae-69f2-4b33-bf92-844f25e62bca)
+
+Modify or delete an existing program:
+
+![image](https://github.com/janteH/gymprogram/assets/101558189/0af9f232-89a5-4e11-b701-ccfc6ee708bd)
+
