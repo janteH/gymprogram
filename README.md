@@ -46,3 +46,6 @@ Modify or delete an existing program:
 
 ![image](https://github.com/janteH/gymprogram/assets/101558189/0af9f232-89a5-4e11-b701-ccfc6ee708bd)
 
+Delete confirmation page:
+
+![image](https://github.com/janteH/gymprogram/assets/101558189/9369b5d8-d12a-4a1d-9eb3-883d22ea03b1)
