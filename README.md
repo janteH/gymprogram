@@ -20,6 +20,8 @@ Logged in as user and added some moves:
 
 ![image](https://github.com/janteH/gymprogram/assets/101558189/ecf1e516-5553-4562-bd40-288d301bb6a8)
 
+(When hovering above the links, the accent color is blue)
+
 Created some programs and assigned moves to there:
 
 ![image](https://github.com/janteH/gymprogram/assets/101558189/bf2345c8-d3e0-4950-9a9f-3603ec5b269f)
