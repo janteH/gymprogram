@@ -15,4 +15,3 @@ What the app looks like:
 Log in page:
 
 ![image](https://github.com/janteH/gymprogram/assets/101558189/ae19a55e-d2df-4b04-8fb7-ba9c6e4dad92)
-![image](https://github.com/janteH/gymprogram/assets/101558189/ae19a55e-d2df-4b04-8fb7-ba9c6e4dad92)
