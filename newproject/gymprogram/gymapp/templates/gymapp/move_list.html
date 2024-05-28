@@ -1,0 +1,10 @@
+{% extends "gymapp/base.html" %}
+
+{% block "content" %}
+	<h3>Liikkeet:</h3>
+	{% for object in object_list %}
+		<p><a href="/move/{{ object.pk }}">{{ object.name }}</a></p>
+	{% endfor %}
+
+	<p><a href="/move/new">New Move</a></p>
+{% endblock "content" %}

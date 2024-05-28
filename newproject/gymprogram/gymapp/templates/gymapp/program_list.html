@@ -1,0 +1,13 @@
+{% extends "gymapp/base.html" %}
+
+{% block "content" %}
+	{% for program in object_list %}
+		<h3><a href="/program/{{ program.pk }}">{{ program.name }}</a></h3>
+		<p>{{ program.info }}</p>
+		{% for move in program.move.all %}
+			<p>{{ move.name }} | Sarjat: {{move.sets}} | Toistot: {{move.reps}} | Vastus: {{move.weight}}</p>
+		{% endfor %}
+	{% endfor %}
+
+	<p><a href="/program/new">New Program</a></p>
+{% endblock "content" %}
