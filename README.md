@@ -10,7 +10,7 @@ You are free to copy the code for your own use.
 1. Copy code to your repository where is your virtual environment.
 2. Navigate repository with ./manage.py and run migrations: "./manage.py migrate"
 
-What the app looks like:
+## What the app looks like:
 
 Log in page:
 
